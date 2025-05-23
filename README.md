@@ -18,9 +18,9 @@ Python
 4. Delete Contact
 5. Exit
    
-1. Enter your choice: 1
-2. Enter name: XYZ
-3. Enter phone: 1234567890
-4. Enter email: XYZ@123.com
+Enter your choice: 1 
+Enter name: XYZ
+Enter phone: 1234567890
+Enter email: XYZ@123.com
 
 Contact saved successfully!
