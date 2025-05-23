@@ -10,17 +10,3 @@ Data stored in a local file (contacts.txt)
 
 # Language
 Python
-
-# 🧾 Example Usage
-1. Add Contact
-2. View Contacts
-3. Search Contact
-4. Delete Contact
-5. Exit
-   
-Enter your choice: 1 
-Enter name: XYZ
-Enter phone: 1234567890
-Enter email: XYZ@123.com
-
-Contact saved successfully!
